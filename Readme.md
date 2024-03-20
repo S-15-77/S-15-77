@@ -15,6 +15,9 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=S-15-77&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+## Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/santhoshdayakar2002?theme=dark&font=Source%20Sans%203)
+
 ### ✍️Random QUOTE
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
