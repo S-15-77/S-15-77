@@ -21,8 +21,7 @@
 ### ✍️Random QUOTE
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random MEME
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 
