@@ -27,14 +27,21 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-15-77&show_icons=true&theme=tokyonight&hide_border=false" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-15-77&theme=tokyonight&hide_border=false" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-15-77&theme=github_dark" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-15-77&layout=compact&theme=tokyonight&hide_border=false" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-15-77&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-15-77&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-15-77&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S-15-77&theme=github_dark&utcOffset=8" />
 </p>
 
 ---
