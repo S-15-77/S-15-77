@@ -54,6 +54,14 @@
 
 ---
 
+## 🧩 LeetCode Stats
+
+<p>
+  <img src="https://leetcard.jacoblin.cool/santhoshdayakar2002?theme=dark&font=Karla&ext=heatmap" />
+</p>
+
+---
+
 ## ✍️ Quote of the Day
 
 <p align="center">
